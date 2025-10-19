@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/gustavo/projects/orderbook/build/src",
+  "command": "/usr/bin/c++  -I/home/gustavo/projects/orderbook/include -std=gnu++17 -o CMakeFiles/orderbook.dir/main.cpp.o -c /home/gustavo/projects/orderbook/src/main.cpp",
+  "file": "/home/gustavo/projects/orderbook/src/main.cpp",
+  "output": "src/CMakeFiles/orderbook.dir/main.cpp.o"
+}
+]

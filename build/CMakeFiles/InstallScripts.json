@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/gustavo/projects/orderbook/build/cmake_install.cmake",
+		"/home/gustavo/projects/orderbook/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
